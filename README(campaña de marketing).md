@@ -2,10 +2,6 @@
 
 **Sistema end-to-end de reporting para una agencia de marketing digital — del modelo dimensional en PostgreSQL hasta 3 dashboards ejecutivos en Power BI.**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13+-316192?logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-Analytical-4479A1?logo=postgresql&logoColor=white)
-![Status](https://img.shields.io/badge/status-completed-success)
 
 > ⚠️ **Nota sobre los datos:** Todos los datos del proyecto son **sintéticos y simulados** — generados específicamente para este portfolio. Los nombres de clientes, montos y métricas no corresponden a ninguna entidad real.
 

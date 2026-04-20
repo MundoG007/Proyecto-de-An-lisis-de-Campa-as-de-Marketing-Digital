@@ -130,7 +130,8 @@ END AS margen_pct
 
 ### 1. Reporte Comercial — *¿Qué está funcionando?*
 
-![Reporte Comercial](docs/reporte_comercial.png)
+![Reporte Comercial](<img width="1237" height="735" alt="image" src="https://github.com/user-attachments/assets/133f8053-630d-40f7-ad66-93f8698e3284" />
+)
 
 Vista ejecutiva del negocio: KPIs globales (Gasto, Leads, Ingresos, ROAS), desempeño por plataforma (CPL y ROAS), ROAS por cliente, ranking de creatividades ganadoras, y evolución mensual de gasto vs. ingresos.
 

@@ -156,7 +156,8 @@ Vista de cartera para dirección: facturación, costo interno, margen, margen %,
 
 ### 3. Reporte Cliente — *¿Cómo voy?*
 
-![Reporte Cliente](docs/reporte_cliente.png)
+<img width="1237" height="735" alt="image" src="https://github.com/user-attachments/assets/78ca01ef-d42a-46dd-86c5-207e973fc751" />
+
 
 Drill-down individual: KPIs del cliente (gasto, leads, conversiones, ingresos, ROAS, CPL), tendencia diaria gasto vs. ingresos, embudo de conversión (impresiones → clicks → leads → conversiones), estado de campañas activas/pausadas, top creatividades del cliente, e impacto por tipo de audiencia.
 

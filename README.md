@@ -142,7 +142,7 @@ Vista ejecutiva del negocio: KPIs globales (Gasto, Leads, Ingresos, ROAS), desem
 
 ### 2. Reporte Interno — *¿Qué clientes son rentables?*
 
-![Reporte Interno](docs/reporte_interno.png)
+![Reporte Interno]([docs/reporte_interno.png](https://github.com/MundoG007/Proyecto-de-An-lisis-de-Campa-as-de-Marketing-Digital/blob/main/reporte_interno.png?raw=true))
 
 Vista de cartera para dirección: facturación, costo interno, margen, margen %, clientes activos vs. churn vs. pausados, modelo de cobro más rentable (% de ganancias / mensual fijo / pago por lead), rentabilidad por antigüedad del cliente, y detalle cliente-mes con estado de pago.
 
